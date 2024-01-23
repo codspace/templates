@@ -1,0 +1,12 @@
+{
+    "id": "mytemplate",
+    "version": "1.0.0",
+    "name": "My Template",
+    "description": "Simple test",
+    "documentationURL": "https://github.com/codspace/templates/tree/main/src/test",
+    "publisher": "Josh",
+    "licenseURL": "https://github.com/devcontainers/templates/blob/main/LICENSE",
+    "platforms": [
+        "Any"
+    ]
+}
