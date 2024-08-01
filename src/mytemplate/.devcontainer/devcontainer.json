@@ -1,4 +1,7 @@
 {
 
     "image": "mcr.microsoft.com/devcontainers/base",
+    "containerEnv": {
+        "MY_ENV_VAR": "${templateOption:anOption}"
+    }
 }
