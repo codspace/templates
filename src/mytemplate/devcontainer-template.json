@@ -1,6 +1,6 @@
 {
     "id": "mytemplate",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "name": "My Template",
     "description": "Simple test",
     "documentationURL": "https://github.com/codspace/templates/tree/main/src/test",
