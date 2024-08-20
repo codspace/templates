@@ -1,6 +1,6 @@
 {
     "id": "mytemplate",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "name": "My Template",
     "description": "Simple test",
     "documentationURL": "https://github.com/codspace/templates/tree/main/src/test",
@@ -23,7 +23,7 @@
     },
     "optionalPaths": [
         ".github/*",
-        "example-projects/exampleA/",
+        "example-projects/exampleA/*",
         "c1.ts"
     ]
 }
